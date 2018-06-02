@@ -1,0 +1,53 @@
+body {
+    background: url(/assets/img/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 65px;
+    margin: 50px;
+    font-family: 'Fontdiner Swanky', cursive;
+    color: white;
+}
+
+h3 {
+    font-family: 'Fontdiner Swanky', cursive;
+    color: white;
+}
+
+.burgerAvailable {
+    font-family: 'Crafty Girls', cursive;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 2px 2px;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f1f367;
+    box-shadow: 500px #C08405;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1), 0px 1px 0px rgba(0, 0, 0, 0.0);
+}
+
+.burgerAvailable:hover {
+    background-color: #81ff94;
+}
+
+.burgerEaten {
+    font-family: 'Crafty Girls', cursive;
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: hsla(333, 73%, 65%, 0.824);
+    color: antiquewhite
+}
+
+button {
+    background-color: #b4c005f5;
+    color: black;
+}
