@@ -1,8 +1,8 @@
 # <h1>Eat-Da-Burger</h1>
 <h3>Overview</h3>
-In this assignment, I created a web application where I can log burgers with MySQL, Node, Express, Handlebars and a homemade ORM.
+In this web application is created with MySQL, Node, Express, Handlebars and a homemade ORM.
 
-<h3>How Eat-Da-Burger Works<h3>
+<h3>How Eat-Da-Burger web application Works<h3>
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
